@@ -59,13 +59,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swetalin-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swetalin-10&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/0-profile-details.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=swetalin-10&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/3-stats.svg" width="400"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/2-most-commit-language.svg" width="400"/>
 </div>
 
 ---
