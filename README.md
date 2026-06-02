@@ -59,13 +59,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/0-profile-details.svg"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/3-stats.svg" width="400"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/profile-summary-card-output/stats/2-most-commit-language.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/main/github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 ---
