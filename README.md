@@ -159,11 +159,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🔥 <a href="https://github.com/swetalin-10/Flare">Flare — Blockchain Donation dApp</a></h3>
-      <p>Decentralized donation platform on Flare Network (Coston2 testnet). Transparent, on-chain fund tracking with owner-controlled withdrawals.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js"/>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity"/>
-      <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js"/>
+      <h3>🧠 <a href="https://github.com/swetalin-10/MemoraX">MemoraX — AI Learning Platform</a></h3>
+      <p>AI-powered study platform that transforms documents into flashcards, quizzes & summaries. Chat with your PDFs using Gemini 2.5 Flash.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
     </td>
     <td width="50%">
       <h3>🔭 <a href="https://github.com/swetalin-10/jaeger-genai-poc">Jaeger GenAI Observability</a></h3>
@@ -175,17 +176,27 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛒 <a href="https://github.com/swetalin-10/Product-Store">Product Store — MERN App</a></h3>
-      <p>Full-stack product management app with CRUD operations, REST API, dark/light mode, and responsive design. Deployed on Vercel.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+      <h3>📊 <a href="https://github.com/swetalin-10/grafana">Grafana — Observability Platform</a></h3>
+      <p>Open-source observability & data visualization platform. Visualize metrics, logs and traces from Prometheus, Loki, Elasticsearch & more.</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Open%20Source-4CAF50?style=flat-square&logo=github"/>
     </td>
     <td width="50%">
       <h3>🌦️ <a href="https://github.com/swetalin-10/Weather-Aware-Journal">Weather Aware Journal</a></h3>
       <p>A journaling app that enriches your entries with live weather data — log thoughts alongside real-time weather context.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Weather%20API-0096D6?style=flat-square&logo=openweathermap"/>
+      <img src="https://img.shields.io/badge/Weather%20API-0096D6?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🛒 <a href="https://github.com/swetalin-10/Product-Store">Product Store — MERN App</a></h3>
+      <p>Full-stack product management app with CRUD operations, REST API, dark/light mode and responsive design. Deployed on Vercel.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
 </table>
