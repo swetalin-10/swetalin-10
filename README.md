@@ -32,16 +32,6 @@
 
 <div align="center">
 
-### 📊 GITHUB ANALYTICS
-
-<img src="https://raw.githubusercontent.com/swetalin-10/swetalin-10/main/github-metrics.svg" alt="GitHub Metrics" width="860"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🔭 WHAT I'M BUILDING
 
 <table>
