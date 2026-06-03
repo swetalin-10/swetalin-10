@@ -4,9 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=swetalin-10&label=Profile%20Views&color=6C63FF&style=flat)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/swetalin-10?label=Followers&style=flat&color=6C63FF)](https://github.com/swetalin-10)
 
 </div>
 
